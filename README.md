@@ -13,6 +13,9 @@
    
    2.- Marco Teórico
   
+   ![image](https://user-images.githubusercontent.com/76134214/111729219-94c0a300-883c-11eb-8490-483a839cab32.png)
+
+  
    3.- Lista de componentes
    
    ![image](https://user-images.githubusercontent.com/76132461/111691458-560af880-87fc-11eb-8dd6-c0fc4def97ac.png)
